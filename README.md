@@ -104,5 +104,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - LinkedIn: https://www.linkedin.com/in/mateusz-gruszka-80489a136
 
 Feel free to reach out if you have any questions or need assistance.
-
-```
